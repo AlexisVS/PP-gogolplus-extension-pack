@@ -3,7 +3,7 @@
     "displayName": "gogolplus pack",
     "description": "Extension pour html/css/sass/blade/js/.env/.htaccess/... bref la panoplie du dev",
     "publisher": "gogolplus-pack",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "engines": {
         "vscode": "^1.60.0"
     },
